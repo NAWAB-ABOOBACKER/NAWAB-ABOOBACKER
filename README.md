@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Nawab Aboobacker!  
 
-<!--
-**NAWAB-ABOOBACKER/NAWAB-ABOOBACKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+u
+## 🚀 About Me  
+🌟 Aspiring **Cybersecurity Analyst**  
+🎓 Student at **Yenepoya Institute Of Technology, Manglore**, passionate about **ethical hacking** and **digital security**.  
+📚 "Always eager to learn, hack, and secure innovative solutions that make an impact!"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills  
+
+### 🚦 Programming & Scripting  
+- 💻 **Languages:** Python,C,Java
+### 🛠️ Data Visualization Tools  
+- 📊 **Data Science Libraries:** Matplotlib, Pandas
+### 🖥️ Other Tools  
+- 🌐 **Version Control:** Git, GitHub  
+
+---
+
+## 🌟 Featured Projects  
+
+### 📋 **Projects coming soon**  
+
+
+## 📫 Let's Connect  
+
+📩 **Email:** (mailto:anawababoobacker25@gmail.com)  
+📞 **Contact:** +91 9895991429
+💼 **LinkedIn** Profile: (https://www.linkedin.com/in/nawab-aboobacker-84aa72310)
+---
+
+
+
+## 🌟 Keep Exploring  
+
+🎯 **"Code it, break it, fix it, repeat — that's how the magic happens!"**
+Check out my projects, and let’s team up to create something awesome!
