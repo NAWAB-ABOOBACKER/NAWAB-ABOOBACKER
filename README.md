@@ -29,7 +29,7 @@ u
 
 📩 **Email:** (mailto:anawababoobacker25@gmail.com)  
 📞 **Contact:** +91 9895991429
-💼 **LinkedIn** Profile: (https://www.linkedin.com/in/nawab-aboobacker-84aa72310)
+ 💼 **LinkedIn** Profile: (https://www.linkedin.com/in/nawab-aboobacker-84aa72310)
 ---
 
 
